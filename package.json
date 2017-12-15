@@ -1,6 +1,6 @@
 {
   "name": "angular2-markdown",
-  "version": "2.2.0",
+  "version": "0.0.0",
   "license": "MIT",
   "angular-cli": {},
   "main": "bundles/angular2-markdown.umd.js",
@@ -27,7 +27,7 @@
   "homepage": "https://github.com/dimpu/angular2-markdown#readme",
   "dependencies": {
     "@angular/cli": "^1.5.3",
-    "marked": "^0.3.6",
+    "marked": "https://github.com/ihcru/marked/tarball/master",
     "prismjs": "^1.8.4"
   },
   "scripts": {
